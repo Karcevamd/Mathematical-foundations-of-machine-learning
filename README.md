@@ -1,5 +1,5 @@
 # Mathematical-foundations-of-machine-learning
-Researching  the mathematical foundations of machine learning
+Researching  the mathematical foundations of machine learning \n
 Folder:
 1. Implementation SVD with help QR-decomposition and researching.
 2. Implementation BFGS and L-BFGS algoritms and including there in logistic regression.
